@@ -1,0 +1,7 @@
+{
+	"focus": {
+        "focusServices": [
+            "./test/specs/focusServices.js"
+        ]
+	}
+}
