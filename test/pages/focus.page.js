@@ -77,9 +77,9 @@ class FocusPage extends Page {
         await this.facebookLink.isDisplayed();
         await this.facebookLink.isEnabled();
         await this.facebookLink.click();
-        await browser.pause(500);
+        await browser.pause(5000);
         await browser.switchWindow(page);
-        await browser.pause(1000);
+        await browser.pause(5000);
     }
 }
 

@@ -21,6 +21,8 @@ Next you will need to meet the following requirements to run the test suite:
 | Google Chrome | v119.0.6045.200      | Please install google chrome v119 or latest                                            |
 | NodeJs     | v20.10.0      | Please install node.js v20 or latest |
 | Visual Studio Code     | v1.85.0      | Please install Visual Studio Code v1.85 or latest |
+| Google Chrome | Settings     | Set your browser language to English  |
+| Windows 10 | Settings     | Set your computer language to English  |
 
 ## Execution Steps
 
